@@ -1,0 +1,17 @@
+Assignment-7
+Q.1 Write a program to create your own package. Package should have more than 2 classes. Write a class that uses he package.
+Q.2 Create customized exceptions in Java.
+Q.3 Explain Unreachable Catch Block error with the help of Java Program.
+Q.4 What is Re-throwing an exception in Java? Explain it with Java Program.
+Q.5 Write a program to copy content of a file into another file.
+Q.6* Write a program to delete a file.
+Q.7* Write a program to get file size and file path.
+Q.8* Write a program to read content from file using BufferedReader.
+Q.9* Write a program to write content into file using BufferedWriter.
+Q.10* Write a program to read content from file using FileInputStream.
+Q.11* Write a program to write content into file using FileOutputStream.
+Q.12* Write a program to create a new file using File class.
+Q.13 Write a program to create a new subdirectory using File class.
+Q.14 Write a program to count newline, tab, space and word of a file using BufferedReader.
+Q.15 Write a program to find out how many times a specific word is repeated in a file.
+
